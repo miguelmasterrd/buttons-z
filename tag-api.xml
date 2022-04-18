@@ -1,0 +1,4 @@
+document.write(`
+<link href="//miguelmasterrd.github.io/buttons-z/css/style-buttons.css" rel="stylesheet"/>
+<link href="//miguelmasterrd.github.io/buttons-z/css/style-icons.css" rel="stylesheet"/>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
